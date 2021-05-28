@@ -123,3 +123,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ML/Cours2/data/database.sqlite
